@@ -3,6 +3,8 @@ Twitter Bootstrap Typeahead Plugin Extension
 
 Check out the development [here](https://github.com/seanybob/twitter-bootstrap-typeahead)
 
+View live demo [here](http://htmlpreview.github.com/?https://github.com/seanybob/twitter-bootstrap-typeahead/master/demo/demo.html)
+
 * * *
 
 v1.0<br />
