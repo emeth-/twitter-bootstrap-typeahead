@@ -17,7 +17,7 @@ All the thanks in the world to [@mdo](https://twitter.com/#!/mdo) and [@fat](htt
 I required more functionality out of the Typeahead plugin so I created this extension with some additional features:
 
 - By setting minLength=0, shows all available options on focus.
-- Allows transversal through ALL matched objects via use of arrow keys, rather than just going through the first X.
+- Allows traversal through ALL matched objects via use of arrow keys, rather than just going through the first X.
 
 Required
 -----------------
