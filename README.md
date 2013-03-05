@@ -15,8 +15,7 @@ An extension of the Twitter Bootstrap Typeahead plugin<br />
 
 About
 -----------------
-All the thanks in the world to [@mdo](https://twitter.com/#!/mdo) and [@fat](https://twitter.com/#!/fat) of [@twitter](https://twitter.com/) for the wonderful Bootstrap utility.<br />
-I required more functionality out of the Typeahead plugin so I created this extension with some additional features:
+I needed more functionality out of the Typeahead plugin so I created this extension with some additional features:
 
 - By setting minLength=0, shows all available options on focus.
 - Allows traversal through ALL matched objects via use of arrow keys, rather than just going through the first X.
@@ -41,4 +40,4 @@ Installation
     
 Credits
 -----------------
-Demo and setup taken from [Terry Rosen](https://github.com/tcrosen/twitter-bootstrap-typeahead) - Thanks man!
+Demo layout taken from [Terry Rosen](https://github.com/tcrosen/twitter-bootstrap-typeahead) - Thanks man!
